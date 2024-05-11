@@ -87,6 +87,6 @@
 <div>
   <h2>📊Github Analytics</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=LUISALEXANDERQUISHPE&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Github Stats" width="410" height="310" style="display: inline-block;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUISALEXANDERQUISHPE&layout=compact&theme=tokyonight&hide_border=true" alt="Github Stats"  width="450" height="310" style="display: inline-block;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUISALEXANDERQUISHPE&layout=compact&theme=tokyonight&hide_border=true" alt="Github Stats"  width="450" height="270">
 </div>
 <h2> 💹Contribuciones en equipo</h2>
