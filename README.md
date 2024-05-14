@@ -11,7 +11,7 @@
 </div>
 <div>
   <h2>Acerca de mí📜</h2>
-  <p>Me pasiona el desarrollo de software 💻 como el crear páginas web, desarrollar aplicaciones de escritorio 🛡️ y la creacción de interfaces de usuario atractivas.</p>
+  <p>Me apasiona el desarrollo de software 💻 como el crear páginas web, desarrollar aplicaciones de escritorio 🛡️ y la creacción de interfaces de usuario atractivas.</p>
   <li>
 🔍Me gusta mucho aprender sobre nuevos lenguajes de programación mediante cursos que se encuentra en la Web o en Youtube, de esta forma poder aplicar soluciones 🛠️  y trucos rápidos en los proyectos que desarrollaré.
   </li>
