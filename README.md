@@ -24,17 +24,7 @@
 📚 En mi tiempo libre me dedico aprender nuevos lenguajes de programación como HTML y CSS, además aprovecho para estudiar inglés como pasatiempo y otras actividades secundarias. 
   </li>
 </div>
-<div>
-    <h2>👨‍💻Habilidades</h2>
-  <li>
-    <strong>Lenguajes de programación:</strong> Java⚡.
-  </li>
-  <li>
-    <strong>Frameworks y tecnologías:</strong> Visual Studio, NetBeans  Workbench🐬.
-  </li>
-  <li> <strong>Bases de datos:</strong> Mysql, Xammp y Oracle📂.</li>
-</div>
-<hr>
+
 <div><h3>Lenguajes y herramientas</h3></div>
 <div>
 <p align="center">
