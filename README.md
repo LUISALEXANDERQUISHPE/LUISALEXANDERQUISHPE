@@ -5,7 +5,7 @@
 </div>
 
 <div align="left">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=LUISALEXANDERQUISHPE&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+<img src="https://badgen.net/github/commits/LUISALEXANDERQUISHPE/LUIS-QUISHPE" alt="Total Commits">
   <img src="https://badgen.net/badge/icon/github?icon=github&label">
   <img src="https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label">
 </div>
