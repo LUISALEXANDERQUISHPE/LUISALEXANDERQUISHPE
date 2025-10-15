@@ -36,12 +36,11 @@
 <hr>
 <div><h3>Lenguajes y herramientas</h3></div>
 <div>
-<img src="https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/java1.png?raw=true" width="64" height="64" style="display: inline-block;" title="Java";>
-<img src="https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/mysql.png?raw=true" width="64" height="64" style="display: inline-block;"title="MySql";>
-<img src="https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/netbeans.png?raw=true" width="64" height="64" style="display: inline-block;"title="Netbeans";>
-<img src="https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/oracle.png?raw=true" width="64" height="64"  style="display: inline-block;"title="Oracle";>
-<img src="https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/studioCode.png?raw=true" width="64" height="64" style="display: inline-block;"title="Visual Studio";>
-<img src="https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/xampp.png?raw=true" width="64" height="64" style="display: inline-block;"title="Xampp";>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 </div>
 <div>
   <hr>
@@ -91,5 +90,8 @@
 </div>
 <div>
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="75" height="75" /></div>
+</div>
+<div>
+  <h3> Contactamé</h3>
 </div>
 <h2> 💹Contribuciones en equipo</h2>
