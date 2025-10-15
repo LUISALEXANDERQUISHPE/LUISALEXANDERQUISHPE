@@ -75,7 +75,7 @@
         <div align="center">
           <h3 align="center"> <strong>Gestor de Calificaciones</strong></h3>
           <br>
-          <img src="https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/Gestor.png?raw=true" width="320" height="300" title="Gestor de Calificaciones"; >
+          <img src="https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/Gestor.png?raw=true" width="400" height="300" title="Gestor de Calificaciones"; >
            <p >Es una aplicación diseñada para la gestión de calificaciones de estudiantes permitiendo el seguimiento por materia y por profesores asignados a ingresar las calificacione, con esto permitiendo     
            llevar un registro detallado.</p>
         </div>
