@@ -38,7 +38,26 @@
 <div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+ <!-- Lenguajes de Programación -->
+<img src="https://skillicons.dev/icons?i=java,js,py,cs,php,html,css" alt="Languages" />
+
+<!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=react,angular,nextjs,vite,tailwind,bootstrap" alt="Frontend" />
+
+<!-- Backend -->
+<img src="https://skillicons.dev/icons?i=spring,dotnet,laravel,nodejs" alt="Backend" />
+
+<!-- Bases de Datos -->
+<img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Databases" />
+
+<!-- DevOps & Cloud -->
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,azure,git,github,gitlab" alt="DevOps" />
+
+<!-- Herramientas & IDEs -->
+<img src="https://skillicons.dev/icons?i=vscode,idea,visualstudio,eclipse,postman,figma" alt="Tools" />
+
+<!-- Otros -->
+<img src="https://skillicons.dev/icons?i=linux,arduino,discord,latex" alt="Others" />
   </a>
 </p>
 </div>
