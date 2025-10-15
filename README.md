@@ -58,7 +58,7 @@
       <td>
           <div align="center">
             <h3 align="center"> <strong>Contabilidad</strong></h3>
-            <img src="https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/productos.png?raw=true" width="400" height="300" title="Gestor de Calificaciones"; >
+            <img src="https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/productos.png?raw=true" width="400" height="500" title="Gestor de Calificaciones"; >
             <p>Es una aplicación que ayuda a llevar un registro de contabilidad, de ventas y compras. Registro de distribuidores y una pequeña Kardex permitiendo mantener un control detallado de inventario.</p>
           </div>
       </td>
