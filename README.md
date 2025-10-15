@@ -8,6 +8,7 @@
 <img src="https://badgen.net/github/commits/LUISALEXANDERQUISHPE/LUIS-QUISHPE" alt="Total Commits">
   <img src="https://badgen.net/badge/icon/github?icon=github&label">
   <img src="https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label">
+  https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 </div>
 <div>
   <h2>Acerca de mí📜</h2>
