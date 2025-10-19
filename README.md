@@ -12,9 +12,9 @@
 <div align="center">
   <h3>Apasionado, desarrollador Full Stack</h3>
   <div aling="right">
-    <img align="left" alt="Desarrollador" width="400" src="https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/programmer_1.gif">
+    <img align="right" alt="Desarrollador" width="400" src="https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/programmer_1.gif">
   </div>
-  <div align="justify" >
+  <div align="left" >
   <li> Me apasiona el desarrollo de software como el crear páginas web, desarrollar aplicaciones de escritorio y la creacción de interfaces de usuario atractivas.</li>
   <li> Me gusta mucho aprender sobre nuevos lenguajes de programación mediante cursos que se encuentra en la Web o en Youtube, de esta forma poder aplicar soluciones y trucos rápidos en los proyectos que desarrollaré.
   </li>
