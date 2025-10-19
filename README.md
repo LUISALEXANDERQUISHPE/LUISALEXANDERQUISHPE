@@ -1,10 +1,4 @@
 ![MasterHead](https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/header.gif)
-<div align="center">
-  <h1>Hola <img alt="Desarrollador" width="50" src="https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/hellow.gif?raw=true">, soy Luis Quishpe.</h1>
-</div>
-
-<img align="center" alt="Desarrollador" width="400" src="https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/programmer_1.gif">
-<h1>Esta</h1>
 <div align="left">
 <img src="https://badgen.net/github/commits/LUISALEXANDERQUISHPE/LUIS-QUISHPE" alt="Total Commits">
   <img src="https://badgen.net/badge/icon/github?icon=github&label">
@@ -12,19 +6,27 @@
    <img  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </div>
 <div>
-  <h2>Acerca de mí📜</h2>
-  <p>Me apasiona el desarrollo de software 💻 como el crear páginas web, desarrollar aplicaciones de escritorio 🛡️ y la creacción de interfaces de usuario atractivas.</p>
-  <li>
-🔍Me gusta mucho aprender sobre nuevos lenguajes de programación mediante cursos que se encuentra en la Web o en Youtube, de esta forma poder aplicar soluciones 🛠️  y trucos rápidos en los proyectos que desarrollaré.
-  </li>
-  <li>
-👨‍💻Actualmente me encuentro estudiando en la UNIVERSIDAD TÉCNICA DE AMBATO la carrera de 
-    "Ingeniería de software" en 4to Semestre.
-  </li>
-  <li>
-📚 En mi tiempo libre me dedico aprender nuevos lenguajes de programación como HTML y CSS, además aprovecho para estudiar inglés como pasatiempo y otras actividades secundarias. 
-  </li>
+<div align="center">
+  <h1>Hola <img alt="Desarrollador" width="50" src="https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/hellow.gif?raw=true">. Soy Luis Quishpe.</h1>
 </div>
+
+<div align="center">
+  <h3>Apasionado, desarrollador Full Stack</h3>
+  <div aling="left">
+    <img align="left" alt="Desarrollador" width="400" src="https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/programmer_1.gif">
+  </div>
+  <div align="right">
+  <li> Me apasiona el desarrollo de software como el crear páginas web, desarrollar aplicaciones de escritorio y la creacción de interfaces de usuario atractivas.</li>
+  <li> Me gusta mucho aprender sobre nuevos lenguajes de programación mediante cursos que se encuentra en la Web o en Youtube, de esta forma poder aplicar soluciones y trucos rápidos en los proyectos que desarrollaré.
+  </li>
+  <li>Actualmente me encuentro estudiando en la UNIVERSIDAD TÉCNICA DE AMBATO la carrera de 
+    "Ingeniería de software" en 7to Semestre.
+  </li>
+  <li>En mi tiempo libre me dedico aprender nuevos lenguajes de programación como HTML y CSS, además aprovecho para estudiar inglés como pasatiempo y otras actividades secundarias. 
+  </li>
+  </div>
+</div>
+
 
 <div><h3>Lenguajes y herramientas</h3></div>
 <div>
