@@ -1,5 +1,7 @@
 ![MasterHead](https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/header.gif)
-<h1 align="center">Hola <img align="right" alt="Desarrollador" width="50" src="https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/hellow.gif">, soy Luis Quishpe.</h1>
+<div align="center">
+  <h1>Hola <img alt="Desarrollador" width="50" src="https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/hellow.gif?raw=true">, soy Luis Quishpe.</h1>
+</div>
 
 <img align="center" alt="Desarrollador" width="400" src="https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/programmer_1.gif">
 <h1>Esta</h1>
