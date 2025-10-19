@@ -1,5 +1,5 @@
 ![MasterHead](https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/header.gif)
-<h1 align="center">Hola, soy Luis Quishpe👋.</h1>
+<h1 align="center">Hola 👋, soy Luis Quishpe.</h1>
 
 <img align="right" alt="Desarrollador" width="400" src="https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/programmer_1.gif">
 <h1>Esta</h1>
