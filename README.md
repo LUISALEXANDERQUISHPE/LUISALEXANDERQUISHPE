@@ -9,22 +9,24 @@
   <h1>Hola <img alt="Desarrollador" width="50" src="https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/hellow.gif?raw=true">. Soy Luis Quishpe.</h1>
 </div>
 
-<div align="center">
+
   <h3>Apasionado, desarrollador Full Stack</h3>
-  <div aling="right">
-    <img align="right" alt="Desarrollador" width="400" src="https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/programmer_1.gif">
-  </div>
-  <div align="left" >
   <li> Me apasiona el desarrollo de software como el crear páginas web, desarrollar aplicaciones de escritorio y la creacción de interfaces de usuario atractivas.</li>
-  <li> Me gusta mucho aprender sobre nuevos lenguajes de programación mediante cursos que se encuentra en la Web o en Youtube, de esta forma poder aplicar soluciones y trucos rápidos en los proyectos que desarrollaré.
+  <li>❤️ Me gusta mucho aprender sobre nuevos lenguajes de programación mediante cursos que se encuentra en la Web o en Youtube, de esta forma poder aplicar soluciones y trucos rápidos en los proyectos que desarrollo.
   </li>
-  <li>Actualmente me encuentro estudiando en la UNIVERSIDAD TÉCNICA DE AMBATO la carrera de 
+  <li>📚Actualmente me encuentro estudiando en la UNIVERSIDAD TÉCNICA DE AMBATO la carrera de 
     "Ingeniería de software" en 7to Semestre.
   </li>
-  <li>En mi tiempo libre me dedico aprender nuevos lenguajes de programación como HTML y CSS, además aprovecho para estudiar inglés como pasatiempo y otras actividades secundarias. 
+  <li>⏰En mi tiempo libre me dedico aprender nuevos lenguajes de programación como HTML y CSS, además aprovecho para estudiar inglés como pasatiempo y otras actividades secundarias. 
   </li>
-  </div>
-</div>
+    <li>💬 ¡Pregúntame cualquier cosa aquí! Estoy feliz de ayudar.</li>
+  <p aling="right">
+    <img alt="Desarrollador" width="400" src="https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/programmer_1.gif">
+  </p>
+
+
+
+
 
 
 <div><h3>Lenguajes y herramientas</h3></div>
