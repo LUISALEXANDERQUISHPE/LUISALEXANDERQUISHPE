@@ -3,7 +3,6 @@
 <img src="https://badgen.net/github/commits/LUISALEXANDERQUISHPE/LUIS-QUISHPE" alt="Total Commits">
   <img src="https://badgen.net/badge/icon/github?icon=github&label">
   <img src="https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label">
-   <img  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </div>
 <div>
 <div align="center">
