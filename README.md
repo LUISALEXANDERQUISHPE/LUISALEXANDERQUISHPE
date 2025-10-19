@@ -4,7 +4,6 @@
   <img src="https://badgen.net/badge/icon/github?icon=github&label">
   <img src="https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label">
 </div>
-<div>
 <div align="center">
   <h1>Hola <img alt="Desarrollador" width="50" src="https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/hellow.gif?raw=true">. Soy Luis Quishpe.</h1>
 </div>
