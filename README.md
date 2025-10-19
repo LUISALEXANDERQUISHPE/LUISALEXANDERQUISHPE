@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/Portada.png?raw=true" >
 </div>
-
+<img align="right" alt="Desarrollador" width="400" src="https://static.tildacdn.biz/tild3930-6134-4666-b963-386462303334/programmer_1.gif"
 <div align="left">
 <img src="https://badgen.net/github/commits/LUISALEXANDERQUISHPE/LUIS-QUISHPE" alt="Total Commits">
   <img src="https://badgen.net/badge/icon/github?icon=github&label">
