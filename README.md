@@ -18,8 +18,8 @@
     ⏰En mi tiempo libre aprendo HTML, CSS e inglés.<br>
     💬 ¡Pregúntame cualquier cosa aquí! Estoy feliz de ayudar.
   </p>
-  <img src="https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/programmer_1.gif?raw=true" alt="Desarrollador" width="220" align="right">
-   <p align="right"> </p>
+
+   <p align="right">   <img src="https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/programmer_1.gif?raw=true" alt="Desarrollador" width="220" align="right"> </p>
 </div>
 
 
