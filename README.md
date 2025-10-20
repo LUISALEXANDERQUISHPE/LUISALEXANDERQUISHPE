@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/header.gif)
+<img width="1215" height="683" alt="image" src="https://github.com/user-attachments/assets/4d94e96b-da7a-4fbf-a58f-1005a310196e" />![MasterHead](https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/header.gif)
 <div align="left">
 <img src="https://badgen.net/github/commits/LUISALEXANDERQUISHPE/LUIS-QUISHPE" alt="Total Commits">
   <img src="https://badgen.net/badge/icon/github?icon=github&label">
@@ -10,18 +10,13 @@
 
 
   <h3>Apasionado, desarrollador Full Stack</h3>
-Me apasiona el desarrollo de software como el crear páginas web, desarrollar aplicaciones de escritorio y la creación de interfaces de usuario atractivas.
-
-❤️ Me gusta mucho aprender sobre nuevos lenguajes de programación mediante cursos en la web o en YouTube.
-
-📚Actualmente estudio **Ingeniería de Software** en la **Universidad Técnica de Ambato** (7.º semestre).
-
-⏰En mi tiempo libre aprendo HTML, CSS e inglés.
-
-💬 ¡Pregúntame cualquier cosa aquí! Estoy feliz de ayudar.
-
-![Desarrollador](https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/programmer_1.gif?raw=true)
-
+<div align="center">
+  <div align="left">
+  <p>S oy estudiante de **Ingeniería de Software** en la Universidad Técnica de Ambato (4.º semestre). Me especializo en desarrollo **full-stack**: me interesa       tanto el Frontend (interfaces accesibles y modernas) como el Backend (APIs y arquitectura). Busco oportunidades para colaborar en proyectos reales y seguir         aprendiendo.
+  </p>
+  </div>
+  <img src="https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/programmer_1.gif?raw=true" width="100%">
+</div>
 
 <div><h3>Lenguajes y herramientas</h3></div>
 <div>
