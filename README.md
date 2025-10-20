@@ -14,7 +14,8 @@
   <p>S oy estudiante de **Ingeniería de Software** en la Universidad Técnica de Ambato (4.º semestre). Me especializo en desarrollo **full-stack**: me interesa       tanto el Frontend (interfaces accesibles y modernas) como el Backend (APIs y arquitectura). Busco oportunidades para colaborar en proyectos reales y seguir         aprendiendo.
   </p>
   </div>
-  <img src="https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/programmer_1.gif?raw=true" width="50" height="50"  align="right"/>
+  <div align="right">   <img src="https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/programmer_1.gif?raw=true" width="50" height="50"  /></div>
+
 </div>
 
 <div><h3>Lenguajes y herramientas</h3></div>
