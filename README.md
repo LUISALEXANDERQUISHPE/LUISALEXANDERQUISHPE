@@ -9,16 +9,24 @@
 </div>
 
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="flex: 1;">
-    
-Soy estudiante de **Ingeniería de Software** en la Universidad Técnica de Ambato (4.º semestre). Me especializo en desarrollo **full-stack**: me interesa tanto el Frontend (interfaces accesibles y modernas) como el Backend (APIs y arquitectura). Busco oportunidades para colaborar en proyectos reales y seguir aprendiendo.
+<table>
+  <tr>
+    <td width="60%">
+      Me apasiona el desarrollo de software como el crear páginas web, desarrollar aplicaciones de escritorio y la creación de interfaces de usuario atractivas.
 
-  </div>
-  <div>
-    <img src="https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/programmer_1.gif?raw=true" width="280"/>
-  </div>
-</div>
+❤️ Me gusta mucho aprender sobre nuevos lenguajes de programación mediante cursos en la web o en YouTube.
+
+📚Actualmente estudio **Ingeniería de Software** en la **Universidad Técnica de Ambato** (7.º semestre).
+
+⏰En mi tiempo libre aprendo HTML, CSS e inglés.
+
+💬 ¡Pregúntame cualquier cosa aquí! Estoy feliz de ayudar.
+    </td>
+    <td width="40%">
+      <img src="https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/programmer_1.gif?raw=true" alt="Desarrollador" width="220">
+    </td>
+  </tr>
+</table>
 
 <div><h3>Lenguajes y herramientas</h3></div>
 <div>
