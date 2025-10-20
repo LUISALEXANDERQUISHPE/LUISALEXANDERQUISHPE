@@ -10,7 +10,7 @@
 
 
   <h3>Apasionado, desarrollador Full Stack</h3>
- <div align="center">
+ <div align="center" style="display:inline-block">
   <p align="left" style=" width:350;">
     Me apasiona el desarrollo de software como el crear páginas web, desarrollar aplicaciones de escritorio y la creación de interfaces de usuario atractivas.<br>
     ❤️ Me gusta mucho aprender sobre nuevos lenguajes de programación mediante cursos en la web o en YouTube.<br>
