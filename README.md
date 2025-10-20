@@ -10,8 +10,8 @@
 
 
   <h3>Apasionado, desarrollador Full Stack</h3>
-<div style="display: flex; align-items: center; gap: 20px;">
-  <div style="flex: 1;">
+<div>
+  <div align="left">
     
 Me apasiona el desarrollo de software como el crear páginas web, desarrollar aplicaciones de escritorio y la creación de interfaces de usuario atractivas.
 
@@ -24,7 +24,7 @@ Me apasiona el desarrollo de software como el crear páginas web, desarrollar ap
 💬 ¡Pregúntame cualquier cosa aquí! Estoy feliz de ayudar.
 
   </div>
-  <div>
+  <div align="right">
     <img src="https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/programmer_1.gif?raw=true" alt="Desarrollador" width="220">
   </div>
 </div>
