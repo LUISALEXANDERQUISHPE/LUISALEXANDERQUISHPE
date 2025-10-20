@@ -19,7 +19,7 @@
     💬 ¡Pregúntame cualquier cosa aquí! Estoy feliz de ayudar.
   </p>
 
-  <img src="https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/programmer_1.gif?raw=true" alt="Desarrollador" width="220">
+  <img src="https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/programmer_1.gif?raw=true" alt="Desarrollador" width="220" align="right" >
 </div>
 
 
