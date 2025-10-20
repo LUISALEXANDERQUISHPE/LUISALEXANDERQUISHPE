@@ -1,9 +1,19 @@
 ![MasterHead](https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/header.gif)
 <div align="left">
-<img src="https://badgen.net/github/commits/LUISALEXANDERQUISHPE/LUIS-QUISHPE" alt="Total Commits">
-  <img src="https://badgen.net/badge/icon/github?icon=github&label">
-  <img src="https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label">
+  <a href="https://github.com/LUISALEXANDERQUISHPE">
+    <img src="https://badgen.net/badge/icon/github?icon=github&label=LUISALEXANDERQUISHPE" alt="GitHub">
+  </a>
+  <a href="https://github.com/micromatch/micromatch">
+    <img src="https://badgen.net/github/branches/micromatch/micromatch" alt="Branches">
+  </a>
+  <a href="https://github.com/micromatch/micromatch">
+    <img src="https://badgen.net/github/contributors/micromatch/micromatch" alt="Branches">
+  </a>
+  <img src="https://badgen.net/github/commits/LUISALEXANDERQUISHPE/LUIS-QUISHPE" alt="Total Commits">
+  <img src="https://komarev.com/ghpvc/?username=luisalexanderquishpe&label=Profile%20views&color=0e75b6&style=flat" alt="luisalexanderquishpe" />
 </div>
+
+
 <div align="center">
   <h1>Hola <img alt="Desarrollador" width="50" src="https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/hellow.gif?raw=true">. Soy Luis Quishpe.</h1>
 </div>
@@ -48,6 +58,7 @@ Soy estudiante de "Ingeniería de Software" en la Universidad Técnica de Ambato
 </p>
 </div>
 <div>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luisalexanderquishpe" alt="luisalexanderquishpe" /></a> </p>
   <hr>
   <h3> 🏆 Proyectos destacadoss</h3>
   <table>
@@ -77,11 +88,14 @@ Soy estudiante de "Ingeniería de Software" en la Universidad Técnica de Ambato
       </td>
         <td>
         <div align="center">
-          <h3 align="center"> <strong>Gestor de Calificaciones</strong></h3>
+          <h3 align="center"> <strong>Walk Seguros</strong></h3>
           <br>
-          <img src="https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/Gestor.png?raw=true" width="400" height="300" title="Gestor de Calificaciones"; >
-           <p >Es una aplicación diseñada para la gestión de calificaciones de estudiantes permitiendo el seguimiento por materia y por profesores asignados a ingresar las calificacione, con esto permitiendo     
-           llevar un registro detallado.</p>
+          <img src="https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/Seguros.jpg?raw=true" width="400" height="300" title="Gestor de Calificaciones"; >
+           <p >Es una aplicación web integral orientada a la gestión de seguros de vida y materiales, que permite la administración eficiente de información mediante tres roles principales: Administrador, Agente y Usuario.
+
+El sistema está desarrollado con un frontend moderno en React + Vite, garantizando una interfaz rápida, dinámica y responsiva, mientras que el backend está implementado en Spring Boot (Java), asegurando robustez, seguridad y escalabilidad en las operaciones.
+
+Este proyecto refleja buenas prácticas de arquitectura y una integración fluida entre el cliente y el servidor, ideal para la automatización de procesos en entornos aseguradores. </p>
         </div>
        </td>
     </tr>
@@ -91,11 +105,10 @@ Soy estudiante de "Ingeniería de Software" en la Universidad Técnica de Ambato
 
   <h2>📊 Github </h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LUISALEXANDERQUISHPE&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="stats" width="420">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUISALEXANDERQUISHPE&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" width="300">
+  <img src="https://github-readme-stats.vercel.app/api?username=luisalexanderquishpe&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="stats" width="420">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisalexanderquishpe&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" width="300">
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=luisalexanderquishpe&layout=compact&theme=tokyonight&hide_border=true" alt="luisalexanderquishpe" />
 </p>
-
-<div>
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="75" height="75" /></div>
 </div>
 <div>
