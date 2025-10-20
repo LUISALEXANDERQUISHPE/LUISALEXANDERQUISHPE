@@ -10,17 +10,24 @@
 
 
   <h3>Apasionado, desarrollador Full Stack</h3>
-<div style="display: flex; align-items: center; gap: 20px;">
-  <p style="text-align: left; flex: 1;">
-    Me apasiona el desarrollo de software como el crear páginas web, desarrollar aplicaciones de escritorio y la creación de interfaces de usuario atractivas.<br>
-    ❤️ Me gusta mucho aprender sobre nuevos lenguajes de programación mediante cursos en la web o en YouTube.<br>
-    📚Actualmente estudio <strong>Ingeniería de Software</strong> en la <strong>Universidad Técnica de Ambato</strong> (7.º semestre).<br>
-    ⏰En mi tiempo libre aprendo HTML, CSS e inglés.<br>
-    💬 ¡Pregúntame cualquier cosa aquí! Estoy feliz de ayudar.
-  </p>
+<table>
+  <tr>
+    <td width="60%">
+      Me apasiona el desarrollo de software como el crear páginas web, desarrollar aplicaciones de escritorio y la creación de interfaces de usuario atractivas.
 
-  <img src="https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/programmer_1.gif?raw=true" alt="Desarrollador" width="220" align="right" >
-</div>
+❤️ Me gusta mucho aprender sobre nuevos lenguajes de programación mediante cursos en la web o en YouTube.
+
+📚Actualmente estudio **Ingeniería de Software** en la **Universidad Técnica de Ambato** (7.º semestre).
+
+⏰En mi tiempo libre aprendo HTML, CSS e inglés.
+
+💬 ¡Pregúntame cualquier cosa aquí! Estoy feliz de ayudar.
+    </td>
+    <td width="40%">
+      <img src="https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/programmer_1.gif?raw=true" alt="Desarrollador" width="220">
+    </td>
+  </tr>
+</table>
 
 
 
