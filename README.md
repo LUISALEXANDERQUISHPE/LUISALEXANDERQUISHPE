@@ -1,4 +1,4 @@
-<img width="1215" height="683" alt="image" src="https://github.com/user-attachments/assets/4d94e96b-da7a-4fbf-a58f-1005a310196e" />![MasterHead](https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/header.gif)
+![MasterHead](https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/header.gif)
 <div align="left">
 <img src="https://badgen.net/github/commits/LUISALEXANDERQUISHPE/LUIS-QUISHPE" alt="Total Commits">
   <img src="https://badgen.net/badge/icon/github?icon=github&label">
