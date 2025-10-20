@@ -12,7 +12,7 @@
   <h3>Apasionado, desarrollador Full Stack</h3>
 <table>
   <tr>
-    <td width="60%">
+    <td width="60%" style="border: none;">
       Me apasiona el desarrollo de software como el crear páginas web, desarrollar aplicaciones de escritorio y la creación de interfaces de usuario atractivas.
 
 ❤️ Me gusta mucho aprender sobre nuevos lenguajes de programación mediante cursos en la web o en YouTube.
@@ -23,8 +23,8 @@
 
 💬 ¡Pregúntame cualquier cosa aquí! Estoy feliz de ayudar.
     </td>
-    <td width="40%">
-      <img src="https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/programmer_1.gif?raw=true" alt="Desarrollador" width="100%">
+    <td width="40%" style="border: none;">
+      <img src="https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/programmer_1.gif?raw=true" alt="Desarrollador" width="220">
     </td>
   </tr>
 </table>
