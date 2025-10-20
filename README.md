@@ -24,7 +24,7 @@
 💬 ¡Pregúntame cualquier cosa aquí! Estoy feliz de ayudar.
     </td>
     <td width="40%">
-      <img src="https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/programmer_1.gif?raw=true" alt="Desarrollador" width="220">
+      <img src="https://github.com/LUISALEXANDERQUISHPE/imagenes/blob/main/programmer_1.gif?raw=true" alt="Desarrollador" width="100%">
     </td>
   </tr>
 </table>
