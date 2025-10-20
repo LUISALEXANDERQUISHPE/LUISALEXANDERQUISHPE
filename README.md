@@ -49,7 +49,7 @@ Soy estudiante de "Ingeniería de Software" en la Universidad Técnica de Ambato
 </div>
 <div>
   <hr>
-  <h3>⚒️Mis Proyectos</h3>
+  <h3> 🏆 Proyectos destacadoss</h3>
   <table>
     <tr>
       <td>
@@ -88,15 +88,35 @@ Soy estudiante de "Ingeniería de Software" en la Universidad Técnica de Ambato
   </table>
 </div>
 <hr>
-<div align="center">
-  <h2>📊 Github Analytics</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=LUISALEXANDERQUISHPE&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&card_width=400" alt="Github Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUISALEXANDERQUISHPE&layout=compact&theme=tokyonight&hide_border=true&card_width=400" alt="Top Languages">
-</div>
+
+  <h2>📊 Github </h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LUISALEXANDERQUISHPE&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="stats" width="420">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUISALEXANDERQUISHPE&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" width="300">
+</p>
+
 <div>
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="75" height="75" /></div>
 </div>
 <div>
-  <h3> Contactamé</h3>
+  <h3> 🎓 Educación</h3>
+  <p> "Universidad Técnica de Ambato" — Ingeniería de Software (7.º semestre)</p>
 </div>
+<div>
+  <h3>📒¿Qué estoy aprendiendo?</h3>
+  <p>🔭 Actualmente aprendiendo</p> 
+  <li>Mejores prácticas en React + Vite  </li>
+  <li>Next.js con typescript</li>
+  <li>Testing (Vitest / Testing Library) </li>
+  <li>Arquitectura de microservicios(grcp) y Docker</li>
+</div>
+<div>
+  <h3> 📫 Contacto</h3>
+<p> <strong>Email:</strong> lquishpe1021@gmail.com </p>
+<p> <strong>LinkedIn:</strong> www.linkedin.com/in/luis-quishpe-lopez-135492230 </p>
+  <p align="center">
+  <sub>Si te interesa colaborar o ver una demo, ¡escríbeme!</sub>
+</p>
+</div>
+
 <h2> 💹Contribuciones en equipo</h2>
