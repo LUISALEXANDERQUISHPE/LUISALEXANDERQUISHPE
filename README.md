@@ -1,19 +1,19 @@
 <!-- ═══════════════════════ HEADER ═══════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=220&section=header&text=Luis%20Quishpe&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20Ingenier%C3%ADa%20de%20Software&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Luis Quishpe — Full-Stack Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1a22,50:13222c,100:1e3442&height=220&section=header&text=Luis%20Quishpe&fontSize=56&fontColor=dcec6b&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20Ingenier%C3%ADa%20de%20Software&descSize=18&descAlignY=58&descColor=eef1f2&animation=fadeIn" width="100%" alt="Luis Quishpe — Full-Stack Developer" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=620&lines=Construyo+aplicaciones+web+de+punta+a+punta;React+%C2%B7+Next.js+%C2%B7+Spring+Boot+%C2%B7+.NET;Interfaces+accesibles+%2B+APIs+bien+dise%C3%B1adas;Abierto+a+pr%C3%A1cticas+y+proyectos+reales" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=3000&pause=1000&color=DCEC6B&center=true&vCenter=true&width=620&lines=Construyo+aplicaciones+web+de+punta+a+punta;React+%C2%B7+Next.js+%C2%B7+Spring+Boot+%C2%B7+.NET;Interfaces+accesibles+%2B+APIs+bien+dise%C3%B1adas;Abierto+a+pr%C3%A1cticas+y+proyectos+reales" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://portafolioluisalexandere.vercel.app/"><img src="https://img.shields.io/badge/Portafolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio" /></a>
-  <a href="https://www.linkedin.com/in/luis-quishpe-lopez-135492230"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:lquishpe1021@gmail.com"><img src="https://img.shields.io/badge/Email-1e3a8a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=luisalexanderquishpe&label=Visitas&color=2563eb&style=for-the-badge" alt="Visitas al perfil" />
+  <a href="https://portafolioluisalexandere.vercel.app/"><img src="https://img.shields.io/badge/Portafolio-13222c?style=for-the-badge&logo=vercel&logoColor=dcec6b" alt="Portafolio" /></a>
+  <a href="https://www.linkedin.com/in/luis-quishpe-lopez-135492230"><img src="https://img.shields.io/badge/LinkedIn-13222c?style=for-the-badge&logo=linkedin&logoColor=dcec6b" alt="LinkedIn" /></a>
+  <a href="mailto:lquishpe1021@gmail.com"><img src="https://img.shields.io/badge/Email-13222c?style=for-the-badge&logo=gmail&logoColor=dcec6b" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=luisalexanderquishpe&label=Visitas&color=1e3442&style=for-the-badge" alt="Visitas al perfil" />
 </p>
 
 ---
@@ -71,9 +71,9 @@ Soy estudiante de **Ingeniería de Software** en la **Universidad Técnica de Am
       </p>
       <p>Plataforma web para la gestión de seguros de vida y materiales, con tres roles (Administrador, Agente y Usuario) y una integración limpia entre cliente y servidor.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+        <img src="https://img.shields.io/badge/React-1e3442?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Vite-1e3442?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite" />
+        <img src="https://img.shields.io/badge/Spring_Boot-1e3442?style=flat-square&logo=springboot&logoColor=6DB33F" alt="Spring Boot" />
       </p>
       <!-- Agrega aquí el enlace al repo: <p align="center"><a href="URL_DEL_REPO">Ver repositorio →</a></p> -->
     </td>
@@ -84,7 +84,7 @@ Soy estudiante de **Ingeniería de Software** en la **Universidad Técnica de Am
       </p>
       <p>Sistema de registro contable de ventas y compras, con gestión de distribuidores y un kardex para el control detallado del inventario.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/Java-1e3442?style=flat-square&logo=openjdk&logoColor=F89820" alt="Java" />
       </p>
       <p align="center"><a href="https://github.com/LUISALEXANDERQUISHPE/Proyecto_Contabilidadd">Ver repositorio →</a></p>
     </td>
@@ -120,17 +120,69 @@ Soy estudiante de **Ingeniería de Software** en la **Universidad Técnica de Am
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=LUISALEXANDERQUISHPE&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones" />
+  <img src="https://streak-stats.demolab.com?user=LUISALEXANDERQUISHPE&background=13222c&border=284352&stroke=284352&ring=dcec6b&fire=dcec6b&currStreakNum=eef1f2&currStreakLabel=dcec6b&sideNums=eef1f2&sideLabels=97a8b2&dates=97a8b2&border_radius=10&locale=es" alt="Racha de contribuciones" />
 </p>
 
-<!-- La serpiente se genera con .github/workflows/snake.yml en la rama "output" -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LUISALEXANDERQUISHPE/LUISALEXANDERQUISHPE/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LUISALEXANDERQUISHPE/LUISALEXANDERQUISHPE/output/github-snake.svg" />
-    <img alt="Serpiente comiéndose mis contribuciones" src="https://raw.githubusercontent.com/LUISALEXANDERQUISHPE/LUISALEXANDERQUISHPE/output/github-snake.svg" />
-  </picture>
-</p>
+## 🐍 Mi serpiente de contribuciones
+
+Abre un año para ver a la serpiente comerse esas contribuciones mientras cuenta cuántas lleva.
+
+<!-- SERPIENTE:INICIO (lo rellena .github/workflows/snake.yml; no edites a mano) -->
+<details open>
+  <summary><b>2026</b> · 56 contribuciones (en curso)</summary>
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LUISALEXANDERQUISHPE/LUISALEXANDERQUISHPE/output/snake-2026-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LUISALEXANDERQUISHPE/LUISALEXANDERQUISHPE/output/snake-2026.svg" />
+      <img alt="Serpiente comiéndose mis contribuciones de 2026" src="https://raw.githubusercontent.com/LUISALEXANDERQUISHPE/LUISALEXANDERQUISHPE/output/snake-2026-dark.svg" width="100%" />
+    </picture>
+  </p>
+</details>
+
+<details>
+  <summary><b>2025</b> · 266 contribuciones</summary>
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LUISALEXANDERQUISHPE/LUISALEXANDERQUISHPE/output/snake-2025-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LUISALEXANDERQUISHPE/LUISALEXANDERQUISHPE/output/snake-2025.svg" />
+      <img alt="Serpiente comiéndose mis contribuciones de 2025" src="https://raw.githubusercontent.com/LUISALEXANDERQUISHPE/LUISALEXANDERQUISHPE/output/snake-2025-dark.svg" width="100%" />
+    </picture>
+  </p>
+</details>
+
+<details>
+  <summary><b>2024</b> · 167 contribuciones</summary>
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LUISALEXANDERQUISHPE/LUISALEXANDERQUISHPE/output/snake-2024-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LUISALEXANDERQUISHPE/LUISALEXANDERQUISHPE/output/snake-2024.svg" />
+      <img alt="Serpiente comiéndose mis contribuciones de 2024" src="https://raw.githubusercontent.com/LUISALEXANDERQUISHPE/LUISALEXANDERQUISHPE/output/snake-2024-dark.svg" width="100%" />
+    </picture>
+  </p>
+</details>
+
+<details>
+  <summary><b>2023</b> · 29 contribuciones</summary>
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LUISALEXANDERQUISHPE/LUISALEXANDERQUISHPE/output/snake-2023-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LUISALEXANDERQUISHPE/LUISALEXANDERQUISHPE/output/snake-2023.svg" />
+      <img alt="Serpiente comiéndose mis contribuciones de 2023" src="https://raw.githubusercontent.com/LUISALEXANDERQUISHPE/LUISALEXANDERQUISHPE/output/snake-2023-dark.svg" width="100%" />
+    </picture>
+  </p>
+</details>
+
+<details>
+  <summary><b>2022</b> · 1 contribución</summary>
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LUISALEXANDERQUISHPE/LUISALEXANDERQUISHPE/output/snake-2022-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LUISALEXANDERQUISHPE/LUISALEXANDERQUISHPE/output/snake-2022.svg" />
+      <img alt="Serpiente comiéndose mis contribuciones de 2022" src="https://raw.githubusercontent.com/LUISALEXANDERQUISHPE/LUISALEXANDERQUISHPE/output/snake-2022-dark.svg" width="100%" />
+    </picture>
+  </p>
+</details>
+<!-- SERPIENTE:FIN -->
 
 ---
 
@@ -139,5 +191,5 @@ Soy estudiante de **Ingeniería de Software** en la **Universidad Técnica de Am
 ¿Tienes un proyecto, una vacante de prácticas o quieres ver una demo? Escríbeme a **[lquishpe1021@gmail.com](mailto:lquishpe1021@gmail.com)** o por **[LinkedIn](https://www.linkedin.com/in/luis-quishpe-lopez-135492230)**.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:0f172a&height=120&section=footer" width="100%" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dcec6b,100:c3d64a&height=120&section=footer" width="100%" alt="" />
 </p>
