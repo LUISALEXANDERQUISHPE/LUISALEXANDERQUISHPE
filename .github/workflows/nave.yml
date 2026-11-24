@@ -1,4 +1,4 @@
-name: Generar serpiente de contribuciones
+name: Generar nave de contribuciones
 
 on:
   schedule:
@@ -13,7 +13,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: serpiente
+  group: nave
   cancel-in-progress: true
 
 jobs:
@@ -29,8 +29,8 @@ jobs:
           node-version: 22
 
       # Un SVG por año (claro y oscuro) en dist/ y las pestañas por año en el README.
-      - name: Generar serpientes por año
-        run: node .github/scripts/serpiente.mjs "${{ github.repository_owner }}" dist README.md
+      - name: Generar naves por año
+        run: node .github/scripts/nave.mjs "${{ github.repository_owner }}" dist README.md
 
       - name: Publicar en la rama output
         uses: crazy-max/ghaction-github-pages@v4
@@ -46,6 +46,6 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "chore: actualizar serpientes por año" || exit 0
+          git commit -m "chore: actualizar naves por año" || exit 0
           git pull --rebase origin main
           git push

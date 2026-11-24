@@ -123,18 +123,18 @@ Soy estudiante de **Ingeniería de Software** en la **Universidad Técnica de Am
   <img src="https://streak-stats.demolab.com?user=LUISALEXANDERQUISHPE&background=13222c&border=284352&stroke=284352&ring=dcec6b&fire=dcec6b&currStreakNum=eef1f2&currStreakLabel=dcec6b&sideNums=eef1f2&sideLabels=97a8b2&dates=97a8b2&border_radius=10&locale=es" alt="Racha de contribuciones" />
 </p>
 
-## 🐍 Mi serpiente de contribuciones
+## 🚀 Mi nave contra mis contribuciones
 
-Abre un año para ver a la serpiente comerse esas contribuciones mientras cuenta cuántas lleva.
+Abre un año y mira cómo la nave hace explotar cada día con actividad mientras el contador suma.
 
-<!-- SERPIENTE:INICIO (lo rellena .github/workflows/snake.yml; no edites a mano) -->
+<!-- NAVE:INICIO (lo rellena .github/workflows/nave.yml; no edites a mano) -->
 <details open>
-  <summary><b>2026</b> · 56 contribuciones (en curso)</summary>
+  <summary><b>2026</b> · 57 contribuciones (en curso)</summary>
   <p align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LUISALEXANDERQUISHPE/LUISALEXANDERQUISHPE/output/snake-2026-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LUISALEXANDERQUISHPE/LUISALEXANDERQUISHPE/output/snake-2026.svg" />
-      <img alt="Serpiente comiéndose mis contribuciones de 2026" src="https://raw.githubusercontent.com/LUISALEXANDERQUISHPE/LUISALEXANDERQUISHPE/output/snake-2026-dark.svg" width="100%" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LUISALEXANDERQUISHPE/LUISALEXANDERQUISHPE/output/nave-2026-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LUISALEXANDERQUISHPE/LUISALEXANDERQUISHPE/output/nave-2026.svg" />
+      <img alt="Nave destruyendo mis contribuciones de 2026" src="https://raw.githubusercontent.com/LUISALEXANDERQUISHPE/LUISALEXANDERQUISHPE/output/nave-2026-dark.svg" width="100%" />
     </picture>
   </p>
 </details>
@@ -143,9 +143,9 @@ Abre un año para ver a la serpiente comerse esas contribuciones mientras cuenta
   <summary><b>2025</b> · 266 contribuciones</summary>
   <p align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LUISALEXANDERQUISHPE/LUISALEXANDERQUISHPE/output/snake-2025-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LUISALEXANDERQUISHPE/LUISALEXANDERQUISHPE/output/snake-2025.svg" />
-      <img alt="Serpiente comiéndose mis contribuciones de 2025" src="https://raw.githubusercontent.com/LUISALEXANDERQUISHPE/LUISALEXANDERQUISHPE/output/snake-2025-dark.svg" width="100%" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LUISALEXANDERQUISHPE/LUISALEXANDERQUISHPE/output/nave-2025-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LUISALEXANDERQUISHPE/LUISALEXANDERQUISHPE/output/nave-2025.svg" />
+      <img alt="Nave destruyendo mis contribuciones de 2025" src="https://raw.githubusercontent.com/LUISALEXANDERQUISHPE/LUISALEXANDERQUISHPE/output/nave-2025-dark.svg" width="100%" />
     </picture>
   </p>
 </details>
@@ -154,9 +154,9 @@ Abre un año para ver a la serpiente comerse esas contribuciones mientras cuenta
   <summary><b>2024</b> · 167 contribuciones</summary>
   <p align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LUISALEXANDERQUISHPE/LUISALEXANDERQUISHPE/output/snake-2024-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LUISALEXANDERQUISHPE/LUISALEXANDERQUISHPE/output/snake-2024.svg" />
-      <img alt="Serpiente comiéndose mis contribuciones de 2024" src="https://raw.githubusercontent.com/LUISALEXANDERQUISHPE/LUISALEXANDERQUISHPE/output/snake-2024-dark.svg" width="100%" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LUISALEXANDERQUISHPE/LUISALEXANDERQUISHPE/output/nave-2024-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LUISALEXANDERQUISHPE/LUISALEXANDERQUISHPE/output/nave-2024.svg" />
+      <img alt="Nave destruyendo mis contribuciones de 2024" src="https://raw.githubusercontent.com/LUISALEXANDERQUISHPE/LUISALEXANDERQUISHPE/output/nave-2024-dark.svg" width="100%" />
     </picture>
   </p>
 </details>
@@ -165,9 +165,9 @@ Abre un año para ver a la serpiente comerse esas contribuciones mientras cuenta
   <summary><b>2023</b> · 29 contribuciones</summary>
   <p align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LUISALEXANDERQUISHPE/LUISALEXANDERQUISHPE/output/snake-2023-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LUISALEXANDERQUISHPE/LUISALEXANDERQUISHPE/output/snake-2023.svg" />
-      <img alt="Serpiente comiéndose mis contribuciones de 2023" src="https://raw.githubusercontent.com/LUISALEXANDERQUISHPE/LUISALEXANDERQUISHPE/output/snake-2023-dark.svg" width="100%" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LUISALEXANDERQUISHPE/LUISALEXANDERQUISHPE/output/nave-2023-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LUISALEXANDERQUISHPE/LUISALEXANDERQUISHPE/output/nave-2023.svg" />
+      <img alt="Nave destruyendo mis contribuciones de 2023" src="https://raw.githubusercontent.com/LUISALEXANDERQUISHPE/LUISALEXANDERQUISHPE/output/nave-2023-dark.svg" width="100%" />
     </picture>
   </p>
 </details>
@@ -176,13 +176,13 @@ Abre un año para ver a la serpiente comerse esas contribuciones mientras cuenta
   <summary><b>2022</b> · 1 contribución</summary>
   <p align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LUISALEXANDERQUISHPE/LUISALEXANDERQUISHPE/output/snake-2022-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LUISALEXANDERQUISHPE/LUISALEXANDERQUISHPE/output/snake-2022.svg" />
-      <img alt="Serpiente comiéndose mis contribuciones de 2022" src="https://raw.githubusercontent.com/LUISALEXANDERQUISHPE/LUISALEXANDERQUISHPE/output/snake-2022-dark.svg" width="100%" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LUISALEXANDERQUISHPE/LUISALEXANDERQUISHPE/output/nave-2022-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LUISALEXANDERQUISHPE/LUISALEXANDERQUISHPE/output/nave-2022.svg" />
+      <img alt="Nave destruyendo mis contribuciones de 2022" src="https://raw.githubusercontent.com/LUISALEXANDERQUISHPE/LUISALEXANDERQUISHPE/output/nave-2022-dark.svg" width="100%" />
     </picture>
   </p>
 </details>
-<!-- SERPIENTE:FIN -->
+<!-- NAVE:FIN -->
 
 ---
 
