@@ -199,7 +199,7 @@ Abre un año y mira cómo la nave hace explotar cada día con actividad mientras
 
 <!-- NAVE:INICIO (lo rellena .github/workflows/nave.yml; no edites a mano) -->
 <details open>
-  <summary><b>2026</b> · 61 contribuciones (en curso)</summary>
+  <summary><b>2026</b> · 83 contribuciones (en curso)</summary>
   <p align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LUISALEXANDERQUISHPE/LUISALEXANDERQUISHPE/output/nave-2026-dark.svg" />
