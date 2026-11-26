@@ -51,7 +51,11 @@ const TEMAS = {
 };
 
 async function get(url, as) {
-  const res = await fetch(url, { headers: { "User-Agent": "contribution-ship" } });
+  const headers = { "User-Agent": "contribution-ship" };
+  if (new URL(url).hostname === "api.github.com" && process.env.GITHUB_TOKEN) {
+    headers.Authorization = "Bearer " + process.env["GITHUB_TOKEN"];
+  }
+  const res = await fetch(url, { headers });
   if (!res.ok) throw new Error(`${res.status} en ${url}`);
   return as === "json" ? res.json() : res.text();
 }
