@@ -31,6 +31,8 @@ jobs:
       # Un SVG por año (claro y oscuro) en dist/ y las pestañas por año en el README.
       - name: Generar naves por año
         run: node .github/scripts/nave.mjs "${{ github.repository_owner }}" dist README.md
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Publicar en la rama output
         uses: crazy-max/ghaction-github-pages@v4
